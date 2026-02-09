@@ -10,7 +10,6 @@
 - ✅ הוספת ספר חדש (POST)
 - ✅ עריכת ספר (PUT)
 - ✅ מחיקת ספר (DELETE)
-- ✅ חיפוש לפי כותרת
 - ✅ מועדפים (toggle `isFavorite`)
 - ✅ עיצוב עם Tailwind + Flowbite React
 - ✅ תמונת עטיפה לפי URL (כולל fallback אם כתובת לא תקינה)
