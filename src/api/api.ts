@@ -1,6 +1,6 @@
 import type { Book, BookCreate, BookUpdate } from "../Models/Book";
 
-const BASE_URL = "https://6988b7d1780e8375a688ffb7.mockapi.io/schema"
+const BASE_URL = "http://localhost:3000/books";
 
 async function handleJson<T>(res: Response): Promise<T> {
     if (!res.ok) {
